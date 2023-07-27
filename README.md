@@ -11,3 +11,9 @@ __Features:__
 * Detail-oriented effects and animations using TailwindCSS
 * React SWR data fetching
 * Zustand state management
+  
+### Start the app
+
+```shell
+npm run dev
+```
