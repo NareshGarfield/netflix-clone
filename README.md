@@ -11,8 +11,12 @@ __Features:__
 * Detail-oriented effects and animations using TailwindCSS
 * React SWR data fetching
 * Zustand state management
-  
-### Installation
+
+### Git Clone
+```shell
+https://github.com/NareshGarfield/netflix-clone.git
+```
+### Node-Modules Installation in cmd
 ```shell
 npm i
 ```
