@@ -14,7 +14,7 @@ __Features:__
 
 ### Git Clone
 ```shell
-https://github.com/NareshGarfield/netflix-clone.git
+git clone https://github.com/NareshGarfield/netflix-clone.git
 ```
 ### Node-Modules Installation in cmd
 ```shell
