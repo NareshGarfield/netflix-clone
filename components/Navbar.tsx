@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import NavbarItem from "./Navbaritem";
 import { BsBell, BsChevronDown, BsSearch } from 'react-icons/bs';
 import MobileMenu from "./MobileMenu";
