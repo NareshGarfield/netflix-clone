@@ -1,4 +1,5 @@
 /* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable @next/next/no-img-element */
 import { useCallback, useState } from 'react';
 import axios from 'axios';
 import Input from '../components/input';
