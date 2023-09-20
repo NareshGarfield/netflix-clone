@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import { FaPlay,FaChevronDown } from "react-icons/fa";
 import FavoriteButton from "./favoriteButton";
