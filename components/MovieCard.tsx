@@ -19,7 +19,7 @@ const MovieCard: React.FC<MovieCardProps> =({
         cursor-pointer
         object-cover
         transition
-        duration
+        duration-500
         shadow-xl
         rounded-md
         group-hover:opacity-90
